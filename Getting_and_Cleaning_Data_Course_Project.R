@@ -1,3 +1,5 @@
+# Getting and Cleaing Data Course Project (Week 4)
+
 # reads and stores subject data
 subject_train <- read.table("UCI HAR Dataset/train/subject_train.txt")
 subject_test <- read.table("UCI HAR Dataset/test/subject_test.txt")
